@@ -27,6 +27,7 @@ API_KEY=<your TMDB API key>
 
 #### While it may not be a looker, it does the job \*\\\_(^-^)\_/\*
 #### Further improvements can be made in many (if not all) places and with the limited time I have alotted for myself, I decided to keep a list of things I'd like to do if I had more time:
+* I didn't have enough time to implement unit testing, but that is definitely a MUST when considering future improvements.
 * Caching within express (for... reasons...)
 * Actually use best practices for Vue (preferably with typescript)
 * Make the frontend not look silly, and by silly I mean not good (double negative alert)
