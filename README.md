@@ -14,7 +14,8 @@ API_KEY=<your TMDB API key>
 * latest version of yarn installed
 
 ## Running the Project
-### While there are ways of making things easier, I decided I ran out of time. Here are the steps needed to successfully use this absolutley beautiful creation I have here by named... "*Movie Search*":
+### While there are ways of making things easier, I decided I ran out of time. Here are the steps needed to successfully use this absolutley beautiful creation I have here by named...
+### "*Movie Search*":
 
 * If this is the first time you are running these services you will need to run the `yarn` command in the base directories of each project in order to ensure each npm package is installed.
 * Navigate to the base directory of the `webapp` project and type the command `yarn dev` in order to start up the frontend at `http://localhost:3000`.
