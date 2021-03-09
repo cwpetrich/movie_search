@@ -10,7 +10,7 @@
 API_KEY=<your TMDB API key>
 ```
 ## Dependencies
-* lts version of node installed (preferably latest)
+* LTS version of node installed (preferably latest)
 * latest version of yarn installed
 
 ## Running the Project
