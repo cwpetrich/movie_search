@@ -1,6 +1,6 @@
 # movie_search
 
-## This is a project made with the *express* purpose of learning *nuxt* to everything I can about *vue*.
+## This is a *vue* into a project made with the *express* purpose of learning *nuxt* to everything I can about these technologies in the shortest time possible.
 
 #### While it was a quick bit of coding, most of my time was spent researching different ways of doing things and throwing out most of them in favor of speed and functionality. There is a few things that are required in order for my ghetto setup to work:
 *you must add a .env file to the base of the `webservice` folder and include these key value pairs:*
@@ -9,6 +9,9 @@
 
 API_KEY=<your TMDB API key>
 ```
+## Dependencies
+* lts version of node installed (preferably latest)
+* latest version of yarn installed
 
 ## Running the Project
 ### While there are ways of making things easier, I decided I ran out of time. Here are the steps needed to successfully use this absolutley beautiful creation I have here by named... "*Movie Search*":
