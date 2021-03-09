@@ -1,5 +1,5 @@
 <template>
-  <div class="page-background">
+  <div>
     <div>
       <h1 class="title">Search</h1>
       <input v-model="search" placeholder="Enter movie title..." />

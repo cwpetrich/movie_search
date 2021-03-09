@@ -3,7 +3,7 @@ const { error, parsed } = dotenv.config();
 if (error) {
   throw error;
 }
-const { API_KEY, PORT, HOST } = parsed;
+const { API_KEY } = parsed;
 const express = require("express");
 const cors = require("cors");
 const { get } = require("axios");
@@ -30,6 +30,6 @@ app.get("/configuration", (req, res) => {
     .catch((error) => console.log(error));
 });
 
-app.listen(PORT, () => {
-  console.log(`Server listening at ${HOST}:${PORT}`);
+app.listen(5000, () => {
+  console.log(`Server listening at http://localhost:5000`);
 });
