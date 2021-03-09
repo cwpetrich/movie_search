@@ -2,7 +2,7 @@
 
 ## This is a *vue* into a project made with the *express* purpose of learning *nuxt* to everything I can about these technologies in the shortest time possible.
 
-#### While it was a quick bit of coding, most of my time was spent researching different ways of doing things and throwing out most of them in favor of speed and functionality. There is a few things that are required in order for my ghetto setup to work:
+#### While it was a quick bit of coding, most of my time was spent researching different ways of doing things and throwing out most of them in favor of speed and functionality. There are a few things that are required in order for my ghetto setup to work:
 *you must add a .env file to the base of the `webservice` folder and include these key value pairs:*
 ```
 // .env
