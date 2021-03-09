@@ -1,0 +1,19 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "express server for custom movie search",
+  "main": "index.js",
+  "repository": "https://github.com/cwpetrich/movie_search.git",
+  "author": "Conrad Petrich",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "immutable": "^4.0.0-rc.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
